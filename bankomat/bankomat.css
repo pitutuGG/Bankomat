@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+
+#cards{
+    display: flex;
+    margin-left: 19vw;
+    width: 63vw;
+}
+
+#c1{
+    margin-top: 2vh;
+}
+
+#c2{
+    margin-top: 5vh;
+}
+
+#txt{
+    border: solid black;
+    width: 30vw;
+    margin-left: 35vw;
+    height: 10vh;
+}
+
+#button{
+    width: 30vw;
+    height: 10vh;
+    font-size: 200%;
+}
+
+#bankomat{
+    margin-top: 5vh;
+    margin-left: 42vw;
+    width: 300px;
+    height: 500px;
+    border: solid;
+}
+
+#wyswietlacz{
+    margin-top: 2px;
+    background-color: white;
+    border: solid;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    left: 8%;
+    font-size: 200%;
+}
